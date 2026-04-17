@@ -1,8 +1,8 @@
 class Nullclaw < Formula
   desc "Tiny autonomous AI assistant infrastructure written in Zig"
   homepage "https://nullclaw.io"
-  url "https://github.com/nullclaw/nullclaw/archive/refs/tags/v2026.4.9.tar.gz"
-  sha256 "aa07f54294dc7bf68be4290626100c2166cded4165fc075055f4f0ee796350cf"
+  url "https://github.com/nullclaw/nullclaw/archive/refs/tags/v2026.4.17.tar.gz"
+  sha256 "da9dcc7136882aaaa696a3ffa1bbf980b5c202c561ae992d9ce3e9fb994a021b"
   license "MIT"
   head "https://github.com/nullclaw/nullclaw.git", branch: "main"
 
